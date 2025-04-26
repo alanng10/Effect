@@ -47,3 +47,5 @@ Effect has park kind arch benefit.
 Effect has park kind arch marry.
 
 Effect has park kind arch land.
+
+Effect has major.
